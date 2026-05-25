@@ -1,0 +1,64 @@
+[
+    {
+        "slug": "nike",
+        "name": "Nike",
+        "display": "Nike SERIES",
+        "display_cn": "耐克系列",
+        "enabled": true,
+        "hot_tags": [
+            "AJ1高",
+            "AJ1中",
+            "AJ1低",
+            "AJ3",
+            "AJ4",
+            "AJ5",
+            "AJ6",
+            "AJ11",
+            "AJ23",
+            "AJ312",
+            "Dunk",
+            "Dunk高帮",
+            "空军",
+            "空军高帮",
+            "gt",
+            "飞马系列",
+            "科比",
+            "詹姆斯",
+            "库里",
+            "杜兰特",
+            "欧文"
+        ]
+    },
+    {
+        "slug": "adidas",
+        "name": "Adidas",
+        "display": "Adidas SERIES",
+        "display_cn": "阿迪系列",
+        "enabled": true,
+        "hot_tags": [
+            "椰子",
+            "复古板鞋",
+            "贝壳头"
+        ]
+    },
+    {
+        "slug": "newbalance",
+        "name": "New Balance",
+        "display": "New Balance SERIES",
+        "display_cn": "新百伦系列",
+        "enabled": false,
+        "hot_tags": []
+    },
+    {
+        "slug": "converse",
+        "name": "Converse",
+        "display": "Converse SERIES",
+        "display_cn": "匡威系列",
+        "enabled": true,
+        "hot_tags": [
+            "1970s",
+            "All Star",
+            "One Star"
+        ]
+    }
+]

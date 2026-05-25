@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "username": "inkt",
+        "password": "inkt114514",
+        "role": "admin",
+        "created_at": "2026-01-01 00:00:00"
+    }
+]

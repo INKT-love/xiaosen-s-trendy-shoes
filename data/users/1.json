@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "username": "inkt",
+    "nickname": "INKT",
+    "avatar": "https:\/\/images.unsplash.com\/photo-1543466835-00a7907e9de1?w=100",
+    "address": {
+        "name": "INKT",
+        "phone": "18936469529",
+        "detail": "蜀绣花园"
+    },
+    "created_at": "2026-01-01 00:00:00"
+}
